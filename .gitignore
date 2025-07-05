@@ -1,0 +1,25 @@
+# 编译输出
+main
+*.exe
+
+# 打包文件
+*.zip
+*.tar.gz
+
+# 临时文件
+*.tmp
+*.log
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+.claude/
+
+# macOS
+.DS_Store
+
+# Go
+go.sum
+vendor/
