@@ -1,0 +1,9 @@
+{
+  "name": "http-proxy-netlify",
+  "version": "1.0.0",
+  "description": "HTTP proxy deployed on Netlify Functions",
+  "scripts": {
+    "build": "echo 'No build needed for Netlify Functions'"
+  },
+  "dependencies": {}
+}
