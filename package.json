@@ -1,0 +1,13 @@
+{
+  "name": "http-proxy-vercel",
+  "version": "1.0.0",
+  "description": "HTTP proxy deployed on Vercel",
+  "scripts": {
+    "dev": "vercel dev",
+    "deploy": "vercel"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {}
+}
