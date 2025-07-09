@@ -62,7 +62,12 @@
    - 访问 [vercel.com](https://vercel.com)
    - 点击 "New Project"
    - 导入 GitHub 仓库
-   - 选择 `vercel-deployment` 分支
+   - 在 "Configure Project" 页面：
+     - Framework Preset: 选择 "Other"
+     - Root Directory: 保持默认 "./"
+     - Build Command: 留空
+     - Output Directory: 留空
+     - **Production Branch**: 选择 `vercel-deployment`
    - 点击 "Deploy"
 
 ## 使用示例
